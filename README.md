@@ -53,7 +53,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: thakorn.su@gmail.com
+- 📧 Email: thakorn.su@ku.th
 - 💻 GitHub: [thakorn-su](https://github.com/thakorn-su)
 
 ---
